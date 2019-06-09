@@ -1,0 +1,41 @@
+Arguments: 
+  /usr/local/Cellar/node/12.1.0/bin/node /Users/iPrincess/.yarn/bin/yarn.js add eshint
+
+PATH: 
+  /Users/iPrincess/.yarn/bin:/Users/iPrincess/.config/yarn/global/node_modules/.bin:/Users/iPrincess/.rbenv/shims:/Users/iPrincess/.rbenv/bin:/Users/iPrincess/.npm-packages/bin:/Users/iPrincess/.npm/bin:/Users/iPrincess/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Users/iPrincess/.yarn/bin:/Users/iPrincess/.config/yarn/global/node_modules/.bin:/Users/iPrincess/.rbenv/shims:/Users/iPrincess/.rbenv/bin:/Users/iPrincess/.npm-packages/bin:/Users/iPrincess/.npm/bin:/Users/iPrincess/bin:/Users/iPrincess/.rvm/bin:/Users/iPrincess/.rvm/bin
+
+Yarn version: 
+  1.15.2
+
+Node version: 
+  12.1.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/eshint: Not found
+      at Request.params.callback [as _callback] (/Users/iPrincess/.yarn/lib/cli.js:66058:18)
+      at Request.self.callback (/Users/iPrincess/.yarn/lib/cli.js:129541:22)
+      at Request.emit (events.js:196:13)
+      at Request.<anonymous> (/Users/iPrincess/.yarn/lib/cli.js:130513:10)
+      at Request.emit (events.js:196:13)
+      at IncomingMessage.<anonymous> (/Users/iPrincess/.yarn/lib/cli.js:130435:12)
+      at Object.onceWrapper (events.js:284:20)
+      at IncomingMessage.emit (events.js:201:15)
+      at endReadableNT (_stream_readable.js:1130:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:17)
+
+npm manifest: 
+  {
+  	"name": "effective-robot",
+  	"version": "0.1.0",
+  	"private": false,
+  	"homepage": "https://github.com/CodeMeKathy/effective-robot"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

@@ -1,0 +1,9 @@
+{
+  "eslint.alwaysShowStatus": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.packageManager": "yarn",
+  "eslint.provideLintTask": true,
+  "cSpell.words": [
+    "Nemo"
+  ]
+}
